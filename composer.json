@@ -1,0 +1,29 @@
+{
+    "name": "wlpi/zend",
+    "description": "zend",
+    "type": "Library, Project",
+    "authors": [
+        {
+            "name": "Vergy Prime",
+            "email": "vergy.prime@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "zendframework/zendframework": "^3.0@dev",
+        "psr/http-server-middleware": "^1.0@dev",
+        "doctrine/annotations": "^1.7@dev",
+        "http-interop/http-server-middleware": "^1.0@dev",
+        "psr/http-server-handler": "^1.0@dev",
+        "ocramius/proxy-manager": "2.1.x-dev",
+        "mvccore/ext-debug-tracy-session": "dev-master",
+        "mvccore/ext-form": "dev-master",
+        "libreworks/ext-mongodb-hhi": "^1.2@dev",
+        "zendframework/zendservice-recaptcha": "^3.0@dev",
+        "zendframework/zend-crypt": "^3.1@dev",
+        "mongofill/mongofill": "dev-master",
+        "zendframework/zend-mvc-plugins": "^1.0@dev",
+        "zendframework/zend-mvc-form": "^1.0@dev",
+        "jbbeauchamp/uglify-php": "dev-master"
+    }
+}
